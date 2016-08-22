@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+// test adapted from http://craftedsw.blogspot.ro/2012/11/testing-legacy-code-with-golden-master.html
 public class GildedRoseApprovalTest {
 
     private static final int FIXED_SEED = 100;
